@@ -1,0 +1,11 @@
+C:\Users\KBK\Desktop\20192177_Term (2)\20192177_Term\PrjClient\Debug\PrjClient.exe
+C:\Users\KBK\Desktop\과제\네트워크및소프트웨어개발\20192177_Term (2)\20192177_Term\PrjClient\Debug\PrjClient.exe
+C:\Users\82109\source\repos\PrjClient\Debug\PrjClient.exe
+C:\Users\KBK\Desktop\PrjClient\Debug\PrjClient.exe
+C:\Users\KBK\Desktop\네트워크텀\새 폴더\PrjClient\Debug\PrjClient.exe
+C:\Users\KJH\source\네트워크소프트웨어\텀프로젝트 관련\텀프 정리\PrjClient\Debug\PrjClient.exe
+C:\Users\KJH\source\네트워크소프트웨어\텀프로젝트 관련\텀프 정리 2\PrjClient\Debug\PrjClient.exe
+C:\Users\82109\source\repos\FPrjClient\Debug\PrjClient.exe
+C:\Users\KJH\source\네트워크소프트웨어\텀프로젝트 관련\FPrjClient\Debug\PrjClient.exe
+C:\Users\KBK\Desktop\TermProject\FPrjClient\Debug\PrjClient.exe
+C:\Users\KBK\Desktop\과제\3학년 2학기\네트워크및소프트웨어개발\TermProject\FPrjClient\Debug\PrjClient.exe

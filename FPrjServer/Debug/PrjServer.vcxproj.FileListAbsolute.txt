@@ -1,0 +1,12 @@
+C:\Users\KBK\Desktop\20192177_Term (2)\20192177_Term\PrjServer\Debug\PrjServer.exe
+C:\Users\KBK\Desktop\과제\네트워크및소프트웨어개발\20192177_Term (2)\20192177_Term\PrjServer\Debug\PrjServer.exe
+C:\Users\82109\source\repos\PrjServer\Debug\PrjServer.exe
+C:\Users\KBK\Desktop\샙폴더\새 폴더\PrjServer\Debug\PrjServer.exe
+C:\Users\KBK\Desktop\네트워크텀\새 폴더\PrjServer\Debug\PrjServer.exe
+C:\Users\KJH\source\네트워크소프트웨어\텀프로젝트 관련\공지사항 기능 추가\새 폴더\PrjServer\Debug\PrjServer.exe
+C:\Users\KJH\source\네트워크소프트웨어\텀프로젝트 관련\텀프 정리\PrjServer\Debug\PrjServer.exe
+C:\Users\KJH\source\네트워크소프트웨어\텀프로젝트 관련\텀프 정리 2\PrjServer\Debug\PrjServer.exe
+C:\Users\82109\source\repos\FPrjServer\Debug\PrjServer.exe
+C:\Users\KJH\source\네트워크소프트웨어\텀프로젝트 관련\FPrjServer\Debug\PrjServer.exe
+C:\Users\KBK\Desktop\TermProject\FPrjServer\Debug\PrjServer.exe
+C:\Users\KBK\Desktop\과제\3학년 2학기\네트워크및소프트웨어개발\TermProject\FPrjServer\Debug\PrjServer.exe
